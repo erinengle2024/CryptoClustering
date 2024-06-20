@@ -1,5 +1,10 @@
 # CryptoClustering 
-# leaflet-challenge
+![Screenshot 2024-06-20 at 10 29 49 AM](https://github.com/erinengle2024/CryptoClustering/assets/158017994/4d0cd4fe-9089-4ed2-ae0a-18a7828d0dc1)
+![Screenshot 2024-06-20 at 10 30 03 AM](https://github.com/erinengle2024/CryptoClustering/assets/158017994/6fd7272c-24af-4c7a-af01-f321371bb02e)
+![Screenshot 2024-06-20 at 10 30 15 AM](https://github.com/erinengle2024/CryptoClustering/assets/158017994/ef69f1d3-1213-43a9-8f6f-eee115e34f04)
+![Screenshot 2024-06-20 at 10 30 36 AM](https://github.com/erinengle2024/CryptoClustering/assets/158017994/67fb6280-c886-45d9-947b-27a883e269f0)
+![Screenshot 2024-06-20 at 10 30 46 AM](https://github.com/erinengle2024/CryptoClustering/assets/158017994/4d5c1c33-049d-4289-a674-71a26343204a)
+
 
 
 Welcome to my submission for the Leaflet Challenge in module 15 of the Data Analytics bootcamp. This project was completed as part of the curriculum to showcase my proficiency in basic JavaScript Mapping using libraries such as D3 and Leaflet plugins.
