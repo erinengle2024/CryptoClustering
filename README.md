@@ -1,30 +1,15 @@
 # CryptoClustering 
-![Screenshot 2024-06-20 at 10 29 49 AM](https://github.com/erinengle2024/CryptoClustering/assets/158017994/4d0cd4fe-9089-4ed2-ae0a-18a7828d0dc1)
-![Screenshot 2024-06-20 at 10 30 03 AM](https://github.com/erinengle2024/CryptoClustering/assets/158017994/6fd7272c-24af-4c7a-af01-f321371bb02e)
-![Screenshot 2024-06-20 at 10 30 15 AM](https://github.com/erinengle2024/CryptoClustering/assets/158017994/ef69f1d3-1213-43a9-8f6f-eee115e34f04)
-![Screenshot 2024-06-20 at 10 30 36 AM](https://github.com/erinengle2024/CryptoClustering/assets/158017994/67fb6280-c886-45d9-947b-27a883e269f0)
-![Screenshot 2024-06-20 at 10 30 46 AM](https://github.com/erinengle2024/CryptoClustering/assets/158017994/4d5c1c33-049d-4289-a674-71a26343204a)
 
-
-
-Welcome to my submission for the Leaflet Challenge in module 15 of the Data Analytics bootcamp. This project was completed as part of the curriculum to showcase my proficiency in basic JavaScript Mapping using libraries such as D3 and Leaflet plugins.
+Welcome to my submission for the Leaflet Challenge in module 19 of the Data Analytics bootcamp. This project was completed as part of the curriculum to showcase my proficiency in Unsupervised Machine Learning using libraries such as SciKit-learn and Hvplot.
 
 
 # Challenge Description
-For this assignment, we were tasked with developing a visualization tool for earthquake data provided by the United States Geological Survey (USGS). It involved fetching earthquake data from the USGS GeoJSON feed, plotting the earthquakes on a Leaflet map, where marker size represents magnitude and color indicates depth, and creating a legend for contextual information. 
-
-![image](https://github.com/erinengle2024/leaflet-challenge/assets/158017994/e1b2fab4-fe02-45bf-aa17-51c7fbc86b97)
-![image](https://github.com/erinengle2024/leaflet-challenge/assets/158017994/3dfbe92d-4003-468b-9503-b7ba514e76be)
-![image](https://github.com/erinengle2024/leaflet-challenge/assets/158017994/ca73b63b-65c8-4245-81d4-c9dd034141f0)
-![image](https://github.com/erinengle2024/leaflet-challenge/assets/158017994/43c27ba4-412c-4caf-8788-db9e003119b1)
-![image](https://github.com/erinengle2024/leaflet-challenge/assets/158017994/4d48a2f2-252e-43dd-8a41-914319b5b54b)
-![image](https://github.com/erinengle2024/leaflet-challenge/assets/158017994/8b31df39-c17d-48dd-8c40-728cd5066adf)
+For this assignment, we used unsupervised learning techniques to analyze cryptocurrency price changes over 24 hours and 7 days. We normalized the data, applied K-means clustering, and used the elbow method to determine the optimal number of clusters. Additionally, we performed Principal Component Analysis (PCA) to reduce the data dimensions and compared the clustering results before and after PCA to evaluate the impact of dimensionality reduction on clustering performance.
 
 
-
-
-
-
+![image](https://github.com/erinengle2024/CryptoClustering/assets/158017994/da214ca2-febe-4a47-a16a-21fe1c494af7)
+![image](https://github.com/erinengle2024/CryptoClustering/assets/158017994/2da2c3d5-b556-4039-858b-52c36306ec31)
+![image](https://github.com/erinengle2024/CryptoClustering/assets/158017994/9335487d-89a3-4308-b7be-a07c0791f7b7)
 
 
 
@@ -34,43 +19,44 @@ For this assignment, we were tasked with developing a visualization tool for ear
 ![image](https://github.com/erinengle2024/python-challenge/assets/158017994/af2a5777-dbe6-4ba7-9bc5-70c93b2354da)
 ![image](https://github.com/erinengle2024/web-scraping-challenge/assets/158017994/afb2a124-27eb-4ddb-ad3a-2694b645c7f1)
 ![image](https://github.com/erinengle2024/web-scraping-challenge/assets/158017994/51f91ce4-e15e-4707-969b-81a9bbf1f83c)
-![image](https://github.com/erinengle2024/belly-button-challenge/assets/158017994/263f63e5-9aae-413c-89f9-1efc8b1a5870)
-![image](https://github.com/erinengle2024/belly-button-challenge/assets/158017994/622df4d9-be9b-45a0-acd8-6e1cff1dd25d)
-![image](https://github.com/erinengle2024/leaflet-challenge/assets/158017994/1c0bb095-602c-42ba-af02-5c142125ca1c)
-
+![image](https://github.com/erinengle2024/CryptoClustering/assets/158017994/3862bac6-04dd-449a-a0b7-be8f9028fcc0)
+![image](https://github.com/erinengle2024/CryptoClustering/assets/158017994/40e625b1-9b4a-4c5a-90d2-4778a9c8d288)
+![image](https://github.com/erinengle2024/CryptoClustering/assets/158017994/022bf9fa-2877-431a-b2dd-e275df9cf293)
+![image](https://github.com/erinengle2024/CryptoClustering/assets/158017994/2566ee96-a24b-4c51-bb31-0e633682407a)
 
 
 
 
   
   # My Results
-![Screenshot 2024-05-19 at 9 51 45 PM](https://github.com/erinengle2024/leaflet-challenge/assets/158017994/493c0b62-385c-4d72-89bc-252e29d3b39b)
+![Screenshot 2024-06-20 at 10 29 49 AM](https://github.com/erinengle2024/CryptoClustering/assets/158017994/4d0cd4fe-9089-4ed2-ae0a-18a7828d0dc1)
+![Screenshot 2024-06-20 at 10 30 03 AM](https://github.com/erinengle2024/CryptoClustering/assets/158017994/6fd7272c-24af-4c7a-af01-f321371bb02e)
+![Screenshot 2024-06-20 at 10 30 15 AM](https://github.com/erinengle2024/CryptoClustering/assets/158017994/ef69f1d3-1213-43a9-8f6f-eee115e34f04)
+![Screenshot 2024-06-20 at 10 30 36 AM](https://github.com/erinengle2024/CryptoClustering/assets/158017994/67fb6280-c886-45d9-947b-27a883e269f0)
+![Screenshot 2024-06-20 at 10 30 46 AM](https://github.com/erinengle2024/CryptoClustering/assets/158017994/4d5c1c33-049d-4289-a674-71a26343204a)
+
+
 
 
 # Resources Used
 
 Challenges I drew heavily from include the following:
- - The Student City Markers Exercise
- - The Student Country GDP Exercise
- - The Layer Group Exercise
- - The Student GeoJson Exercise
- - The Student Marker Cluster Exercise
+ - The Everyone Elbow Method Activity
+ - The Finding K Activity
+ - The Complex Data Activity
+ - The Segmenting with PCA Activity
+ - The Stocks Activity
 
 
 
 
 These challenges, in addition to the other challenges provided, helped teach us the following:
-- How to create a map object
-- How to implement map controls
-- How to connect to the leaflet library
-- How create a map legend
-
-- ![image](https://github.com/erinengle2024/leaflet-challenge/assets/158017994/39bfe53e-4083-4559-bab1-0e5c90563ed5)
-- ![image](https://github.com/erinengle2024/leaflet-challenge/assets/158017994/a167853f-c4db-4529-8163-5f69c05f74c2)
-- ![image](https://github.com/erinengle2024/leaflet-challenge/assets/158017994/11b312c2-80b4-4172-81a7-6647d66d3088)
-
-
-- 
+- How to instantiate, fit, and use Kmeans models
+- How to normalize data using standard scaler
+- Perform principle component analysis
+- Implement the elbow method to determine the optimal number of clusters (k)
+- Visualize clustering results with scatter plots using hvPlot
+ 
 
 
 
@@ -78,4 +64,4 @@ These challenges, in addition to the other challenges provided, helped teach us 
 
 
  ## Additional Resources
-For syntax that I was not familiar with, I used resources such as the Xpert Learning Assistant, provided by UC Berkely Bootcamp, D3 and JavaScript Documentation, W3 Schools, and ChatGPT.  
+For syntax that I was not familiar with, I used resources such as the Xpert Learning Assistant, provided by UC Berkely Bootcamp, Scikit-Learn & Composite Documentation, W3 Schools, and ChatGPT.  
