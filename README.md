@@ -1,6 +1,6 @@
 # CryptoClustering 
 
-Welcome to my submission for the Leaflet Challenge in module 19 of the Data Analytics bootcamp. This project was completed as part of the curriculum to showcase my proficiency in Unsupervised Machine Learning using libraries such as SciKit-learn and Hvplot.
+Welcome to my submission for the Unsupervised Learning Challenge in module 20 of the Data Analytics bootcamp. This project was completed as part of the curriculum to showcase my proficiency in Unsupervised Machine Learning using libraries such as SciKit-learn and Hvplot.
 
 
 # Challenge Description
